@@ -1,0 +1,27 @@
+nav {
+    background-color: rgb(25, 76, 35);
+}
+
+nav a {
+    color: whitesmoke;
+}
+
+nav a:hover {
+    color: grey;
+}
+
+nav a:active {
+    color: black;
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+nav a.active {
+    color: darkgray;
+}
